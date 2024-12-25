@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abdulwalidev/Event-manager_ICT.git/static/css/main.f855e6bc.css",
+    "main.js": "/abdulwalidev/Event-manager_ICT.git/static/js/main.390e6454.js",
+    "static/js/488.9c92ff38.chunk.js": "/abdulwalidev/Event-manager_ICT.git/static/js/488.9c92ff38.chunk.js",
+    "static/media/logo.svg": "/abdulwalidev/Event-manager_ICT.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/abdulwalidev/Event-manager_ICT.git/index.html",
+    "main.f855e6bc.css.map": "/abdulwalidev/Event-manager_ICT.git/static/css/main.f855e6bc.css.map",
+    "main.390e6454.js.map": "/abdulwalidev/Event-manager_ICT.git/static/js/main.390e6454.js.map",
+    "488.9c92ff38.chunk.js.map": "/abdulwalidev/Event-manager_ICT.git/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.390e6454.js"
+  ]
+}
